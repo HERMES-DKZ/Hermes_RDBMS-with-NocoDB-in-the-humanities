@@ -36,3 +36,9 @@ This lesson is being developed as part of the joint project [HERMES](https://her
 
 - [Robert Zwick](https://github.com/robertzwick)
 - [Julia Tolksdorf](https://github.com/jutol)
+
+
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16318582.svg)](https://doi.org/10.5281/zenodo.16318582)
+
